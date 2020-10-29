@@ -45,11 +45,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
-     - [Microsoft Technologies](#119-microsoft-technologies)
-     - [Scala](#120-scala)
-     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
-     - [MATLAB/Octave](#122-matlaboctave)
-     - [Go Language](#123-go-language)
+     - [Kubernetes](#119-kubernetes)
+     - [Microsoft Technologies](#120-microsoft-technologies)
+     - [Scala](#121-scala)
+     - [Programming Notes for Professionals](#122-programming-notes-for-professionals)
+     - [MATLAB/Octave](#123-matlaboctave)
+     - [Go Language](#124-go-language)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -547,14 +548,20 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
-## 1.19 Microsoft Technologies
+## 1.19 Kubernetes
+
+- [Official Kubernetes Documentation on website](https://kubernetes.io/docs/home/)
+- [Free Course on Youtube](https://www.youtube.com/watch?v=F-p_7XaEC84&list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP) :star:
+- [Paid Docker Course on udemy](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/) :heavy_dollar_sign:
+
+## 1.20 Microsoft Technologies
 
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
 
 
-## 1.20 Scala
+## 1.21 Scala
 
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
@@ -563,22 +570,22 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language author, Martin Odersky.
 
-## 1.21 Programming Notes for Professionals
+## 1.22 Programming Notes for Professionals
 
 - Books
     - [Programming Notes for Professionals books](https://goalkicker.com)
 
-## 1.22 MATLAB/Octave
+## 1.23 MATLAB/Octave
 
 - [MATLAB Academy](https://matlabacademy.mathworks.com/)
 - [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
 - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
 
 
-## 1.22 Full-Stack Web Development
+## 1.24 Full-Stack Web Development
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
 
-## 1.23 Go Language
+## 1.25 Go Language
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
